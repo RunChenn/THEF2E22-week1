@@ -1,44 +1,13 @@
-# default
+# 2022 The F2E Week1 | 活動網站設計
 
-## Project setup
+## Demo
 
-```
-# yarn
-yarn
+## Introduction
 
-# npm
-npm install
+## Features - 產品功能
 
-# pnpm
-pnpm install
-```
+## Use Technology & Library - 使用技術 & 第三方服務
 
-### Compiles and hot-reloads for development
+## Installing - 安裝流程
 
-```
-# yarn
-yarn dev
-
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-```
-
-### Compiles and minifies for production
-
-```
-# yarn
-yarn build
-
-# npm
-npm run build
-
-# pnpm
-pnpm build
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://vitejs.dev/config/).
+## Developer
