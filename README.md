@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# THEF2E22-week1
-=======
 # 2022 The F2E Week1 | 活動網站設計
 
 ## Demo
@@ -14,4 +11,3 @@
 ## Installing - 安裝流程
 
 ## Developer
->>>>>>> e743bda2399723efbc110a7366322c3463ec1f5b
